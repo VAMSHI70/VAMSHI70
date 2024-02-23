@@ -1,0 +1,5 @@
+1) what is crm ?
+2) how to build crm software ?
+3) open source platforms to develop crm?
+4)how to desgin front end for crm's.
+5)how to create dashboards for crm.

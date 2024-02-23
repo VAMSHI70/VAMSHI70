@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../job-listing-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "job-listing-master"
+	}
+}
