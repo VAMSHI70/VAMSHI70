@@ -68,7 +68,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
     <div class="container" id="container">
         <div class="form-container sign-up">
-            <form action="/Website/signup.php" method="post">
+            <form action="signup.php" method="post">
                 <h1>Sign In</h1>
                 <div class="social-icons">
                     <a href="#" class="icon"><i class="fa-brands fa-google-plus-g"></i></a>
@@ -85,7 +85,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
         </div>
         <div class="form-container sign-in">
 
-            <form action="/Website/signup.php" method="post">
+            <form action="signup.php" method="post">
                 <h2>Create Account</h2>
                 <div class="social-icons">
                     <a href="#" class="icon"><i class="fa-brands fa-google-plus-g"></i></a>
